@@ -11,7 +11,7 @@ public class Task9_GitHub {
 	public static void main(String[] args) {
 		System.out.println("Course BIT504 - Programming 1");
 		System.out.println("For this project, I am writing a small amount of code.");
-		// This line was removed.
+		System.out.println("This message has been updated for task 9.");
 	}
 
 }
